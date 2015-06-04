@@ -1,6 +1,6 @@
 Astuce: Forcer le "check forced" au prochain démarrage
 ######################################################
-:date: 2008-02-25 16:52
+:date: 2007-01-10 16:52
 :tags: General
 
 .. figure:: http://www.webtools.epiknet.org/gfx/outils.gif

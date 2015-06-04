@@ -1,6 +1,6 @@
 Conversion de coordonnées géographiques en Python
 #################################################
-:date: 2011-02-03 22:19
+:date: 2011-01-20 22:19
 :tags: Programmation, Coordonnées géographique, Développement, Google map, informatique, Proj4, pyproj, Python
 
 .. role:: strike

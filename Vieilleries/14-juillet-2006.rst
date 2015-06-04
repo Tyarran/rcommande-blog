@@ -2,7 +2,7 @@
 ###############
 :date: 2006-07-14 16:59
 :tags: General
-.. :category: Général
+:category: Général
 
 C'est le 14 Juillet!! Un tout petit billet pour montrer que, comme d'habitude, Google c'etait mis au goût du jour avec une image personnalisé de la page d'accueil de son navigateur
 

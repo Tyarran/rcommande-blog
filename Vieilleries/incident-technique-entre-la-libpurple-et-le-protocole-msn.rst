@@ -1,6 +1,6 @@
 Incident technique entre la libpurple et le protocole MSN
 #########################################################
-:date: 2009-01-15 21:47
+:date: 2009-01-13 21:47
 :tags: Logiciels Libres, Planet-Libre
 
 |image0|

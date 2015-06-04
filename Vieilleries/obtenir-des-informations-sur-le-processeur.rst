@@ -1,6 +1,6 @@
 Obtenir des informations sur le processeur
 ##########################################
-:date: 2008-02-25 16:59
+:date: 2006-07-17 16:59
 :tags: Matériel
 
 Bon aller j'innaugure la catégorie "Matériel". La encore on va commencer doucement. C'est juste une commande toute simple fonctionnant sur toutes les distributions linux qui permet d'afficher les informations sur le processeur un peu comme le ferait "everest" sous windows. Bien entendu tous ça sans interface graphique.

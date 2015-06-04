@@ -1,6 +1,6 @@
 [gentoo] Activer le support de l'HFS et l'HFS+ (système de fichiers Mac)
 ########################################################################
-:date: 2010-08-29 21:23
+:date: 2007-07-28 21:23
 :tags: Gentoo
 
 .. role:: strike

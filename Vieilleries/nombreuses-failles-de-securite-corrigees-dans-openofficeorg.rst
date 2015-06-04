@@ -1,6 +1,6 @@
 Nombreuses failles de sécurité corrigées dans OpenOffice.org
 ############################################################
-:date: 2008-02-25 16:53
+:date: 2007-01-09 16:53
 :tags: General
 
 Plusieurs failles critiques ont été découvertes dans la célèbre suite bureautique libre. Toutes ses failles concernent la gestion des images EMF et WMF par les divers composants logiciels de la suite et mènent à de possibles dépassements de mémoire tampon. Toutes ses failles ont été corrigées dans la dernière version d'Openoffice.org. Les développeurs encouragent vivement de faire la mise à jours sans plus attendre car ces failles sont considérées comme critiques.

@@ -1,6 +1,6 @@
 Installer AMSN avec les polices anti-aliasées
 #############################################
-:date: 2008-02-25 16:46
+:date: 2007-04-17 16:46
 :tags: Linux
 
 |image0|

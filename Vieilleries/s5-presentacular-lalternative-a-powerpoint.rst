@@ -1,6 +1,6 @@
 S5 + Presentacular : L'alternative à  PowerPoint
 ################################################
-:date: 2009-01-15 21:46
+:date: 2007-12-10 21:46
 :tags: Logiciels Libres, Planet-Libre
 
 Lorsque l'on a une présentation à faire, on pense souvent à préparer un document Powerpoint (les fameux .ppt) comme support. C'est plutôt agréable à regarder, permet de captiver l'auditoire, et, il faut bien l'avouer, c'est pas bien compliqué à mettre en place.

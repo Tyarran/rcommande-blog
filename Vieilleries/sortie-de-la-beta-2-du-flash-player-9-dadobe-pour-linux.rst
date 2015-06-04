@@ -1,6 +1,6 @@
 Sortie de la bêta 2 du flash player 9 d'Adobe pour Linux
 ########################################################
-:date: 2008-02-25 16:56
+:date: 2006-11-21 16:56
 :tags: Linux
 
 .. figure:: http://www.itportal.it/news/img/1627372006.jpg

@@ -1,6 +1,6 @@
 NTFS-3G en RC1
 ##############
-:date: 2008-02-25 16:49
+:date: 2007-02-08 16:49
 :tags: Linux
 
 NTFS-3G est un module open-source developpé afin de rendre possible la lecture et surtout l'écriture sur des partitions NTFS à partir de Linux.
