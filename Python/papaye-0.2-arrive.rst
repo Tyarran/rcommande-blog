@@ -12,7 +12,7 @@ Papaye 0.2 est arrivé !
    :width: 960px
    :height: 200px
 
-Ça y est! Après de longs mois d'attente, j'ai enfin pu sortir une nouvelle release de Papaye ! Pour rappel, c'est une application que je développe depuis quelques temps et qui permet d'avoir un dépôt de paquets Python en local tout en fesant également office de proxy et de cache pour le dépôt PyPI officiel.
+Ça y est! Après de longs mois d'attente, j'ai enfin pu sortir une nouvelle release de Papaye ! Pour rappel, c'est une application que je développe depuis quelques temps et qui permet d'avoir un dépôt de paquets Python en local tout en faisant également office de proxy et de cache pour le dépôt PyPI officiel.
 
 Autant dire la vérité, ça n'a pas été de la tarte (`à la papaye ...`_). Je suis parti sur une brique logicielle assez exotique (la `ZODB`_ en chef de file) ce qui fait qu' au moindre problème, je me sentais bien seul, :strike:`Google` DuckDuckGo n'était pas toujours d'une grande aide. J'ai notamment été confronté à des problèmes de conflits de transactions et de migrations de données.
 
