@@ -1,18 +1,6 @@
 # Wire up travis
 language: "bash"
 
-#python:
-#  - "3.3"
-#  - "3.4"
-
-#install:
-#  - "pip install -r requirements_develop.txt"
-
-#script: "py.test"
-
-#notifications:
-#  email:
-#    - "commande.romain@gmail.com"
 
 after_success:
     "ssh rcommande@195.154.72.97 'touch travis'"
