@@ -3,4 +3,4 @@ language: "bash"
 
 
 after_success:
-    "ssh -o StrictHostKeyChecking=no rcommande@195.154.72.97"
+    "ssh -o StrictHostKeyChecking=no romain@195.154.72.97"
