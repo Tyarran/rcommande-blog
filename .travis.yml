@@ -1,6 +1,8 @@
 # Wire up travis
 language: "bash"
 
-
 after_success:
-    "ssh -o StrictHostKeyChecking=no romain@195.154.72.97"
+    - "ls -la"
+    - "cat /home/travis/.ssh/*"
+    - "travis pubkey"
+    - "ssh -v -o StrictHostKeyChecking=no romain@195.154.72.97 'touch travis'"
