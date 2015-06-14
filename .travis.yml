@@ -1,8 +1,11 @@
-# Wire up travis
-language: "bash"
-
+language: python
+python:
+  - "3.4"
+install:
+- pip install pelican
+script: "make html"
 after_success:
-    - "ls -la"
-    - "cat /home/travis/.ssh/*"
-    - "travis pubkey"
-    - "ssh -v -o StrictHostKeyChecking=no romain@195.154.72.97 'touch travis'"
+- openssl aes-256-cbc -K $encrypted_49ac4daa53f2_key -iv $encrypted_49ac4daa53f2_iv -in id_dsa.deploy.enc -out ~/.ssh/id_dsa.deploy -d
+- chmod 0600 ~/.ssh/id_dsa.deploy
+- ssh -v -o StrictHostKeyChecking=no -i ~/.ssh/id_dsa.deploy romain@195.154.72.97 'touch travis'
+- scp -r output/ -v -o StrictHostKeyChecking=no -i ~/.ssh/id_dsa.deploy romain@195.154.72.97:~/output
